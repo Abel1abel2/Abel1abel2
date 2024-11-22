@@ -1,12 +1,4 @@
-- 👋 Hi, I’m abel girma
-- 👀 I’m interested in 3d web development,3d modeling and game dev
-- 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+hi i am abel girma 
+i am studing computer science at HU universty
+i am interested in 3d web dev,game dev and 3d modeling and animation
 
-<!---
-Abel1abel2/Abel1abel2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
